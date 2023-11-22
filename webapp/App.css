@@ -1,0 +1,10 @@
+body {
+  scroll-snap-type: y mandatory;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.section {
+  scroll-snap-align: start;
+  height: 100vh;
+}
